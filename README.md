@@ -1,4 +1,4 @@
-![Logo](https://uploadthing.com/f/555f6f2b-11a7-4839-a1a4-fa11bd90a776_logo.png)
+![Logo](https://github.com/Safee-ullah1/cheems-lang/blob/main/logo.png?raw=true)
 # Cheems-Lang
 
 
